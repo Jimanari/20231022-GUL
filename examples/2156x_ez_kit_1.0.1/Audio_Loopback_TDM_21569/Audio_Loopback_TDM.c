@@ -677,6 +677,9 @@ void main(int argc, char *argv[])
 	 * the project.
 	 * @return zero on success
 	 */
+	/* My original comment added 2023 10 22 */
+	/* My original comment added 2023 10 22 No 2 */
+
 	uint32_t Result=0;
 
 	adi_initComponents();
